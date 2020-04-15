@@ -1,0 +1,12 @@
+{
+  "name": "canderson/328/hello",
+  "authors": [
+    {
+      "name": "Conner Anderson",
+      "email": "canderson109@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
